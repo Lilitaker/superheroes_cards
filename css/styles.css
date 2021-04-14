@@ -64,15 +64,15 @@ div {
 }
 
 .batman-bgd {
-    background-image: url(/img/bg-batman.jpg);
+    background-image: url(../img/bg-batman.jpg);
 }
 
 .maravilla-bgd {
-    background-image: url(/img/bg-wonderw.jpg);
+    background-image: url(../img/bg-wonderw.jpg);
 }
 
 .superman-bgd {
-    background-image: url(/img/bg-superman.jpg);
+    background-image: url(../img/bg-superman.jpg);
 }
 
 article img {
